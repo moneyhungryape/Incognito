@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'secret';
-    src: url('./ProgressPersonalUse-EaJdz') format('truetype');
+    src: url('./ProgressPersonalUse-EaJdz.ttf') format('truetype'), url('./PROGRESSPERSONALUSE-EAJDZ.woff') format('woff');
 }
 
 body {
