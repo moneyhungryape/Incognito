@@ -202,7 +202,7 @@ footer nav a, footer nav span {
 }
 
 .home-logo {
-    display: flex;
+    display: block;
     align-items: center;
     justify-content: center;
     margin-bottom: 18px;
