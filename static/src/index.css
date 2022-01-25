@@ -14,7 +14,7 @@ body {
     --scrollbar-thumb-color: rgb(32, 148, 252, 0.3);
     --scrollbar-track-color: rgb(32, 148, 252, 0.1);
     --width: 80%;
-    background: #FFF; 
+    background: #000000; 
     font-family: 'secret;'
     color: var(--text-color);
     margin: 0;
