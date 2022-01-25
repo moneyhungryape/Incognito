@@ -15,7 +15,7 @@ body {
     --scrollbar-track-color: rgb(32, 148, 252, 0.1);
     --width: 80%;
     background: #FFF; 
-    font-family: 'secret';
+    font-family: 'secret;'
     color: var(--text-color);
     margin: 0;
     display: flex;
