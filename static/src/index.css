@@ -14,7 +14,7 @@ body {
     --scrollbar-track-color: rgb(32, 148, 252, 0.1);
     --width: 80%;
     background: #FFF; 
-    font-family: Roboto;
+    font-family: Material Icons;
     color: var(--text-color);
     margin: 0;
     display: flex;
@@ -73,7 +73,7 @@ body[data-appearance="terminal"] {
     --secondary-color: mediumseagreen;
     --scrollbar-thumb-color: rgb(52, 184, 116, 0.3);
     --scrollbar-track-color: rgb(52, 184, 116, 0.1);
-    font-family: Ubuntu Mono;
+    font-family: Material Icons;
     background:#000;
 }
  
@@ -98,11 +98,11 @@ header {
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
     font-weight: 500;
-    font-family: Noto Sans JP;
+    font-family: Material Icons;
 }
 
 body[data-appearance="terminal"] h1, body[data-appearance="terminal"] h2, body[data-appearance="terminal"] h3, body[data-appearance="terminal"] h4, body[data-appearance="terminal"] h5, body[data-appearance="terminal"] h6 {
-    font-family: Ubuntu Mono;
+    font-family: Material Icons;
 }
 
 h1 {
