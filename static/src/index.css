@@ -217,7 +217,7 @@ footer nav a, footer nav span {
 .home-logo .text {
     height: 80px;
     display: inline-block;
-    font-size: 70px;
+    font-size: 200px;
     color: var(--secondary-color);
 }
 
