@@ -343,7 +343,7 @@ input {
     padding: 0px 10px;
     height: 48px;
     border: 1px solid var(--secondary-color);
-    color: var(--secondary-color);
+    color: var(--text-color);
     border-radius: 3px;
     outline: none;
 }
