@@ -21,7 +21,7 @@ body {
     --scrollbar-track-color: rgb(32, 148, 252, 0.1);
     --width: 80%;
     background: #000000; 
-    font-family: 'secret;'
+    font-family: 'Material Icons;'
     color: var(--text-color);
     margin: 0;
     display: flex;
