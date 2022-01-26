@@ -1,5 +1,5 @@
 @import url('./ProgressPersonalUse-EaJdz');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url(./roboto');
 
 @font-face {
     font-family: 'secret';
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'Material Icons';
-    src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+    src: url('./roboto.ttf') format('truetype'), url('./roboto.woff') format('woof');
 }
 
 body {
