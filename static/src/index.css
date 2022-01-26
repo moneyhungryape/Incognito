@@ -175,7 +175,7 @@ footer nav a, footer nav span {
     border-radius: 3px;
     background: #242424;
     border: solid 1px #282828;
-    font-family: 'Material Icons';
+    font-family: 'Material Icons;'
 }
 
 .button[data-style="secondary"] {
@@ -195,7 +195,7 @@ footer nav a, footer nav span {
     border-radius: 30px;
     background: none;
     border: 1px solid var(--border-color);
-    font-family: 'Material Icons';
+    font-family: 'Material Icons;'
 }
 
 .quick-button i {
@@ -320,7 +320,7 @@ footer nav a, footer nav span {
     border-radius: 30px;
     background: none;
     border: 1px solid var(--border-color);
-    font-family: 'Material Icons';
+    font-family: 'Material Icons;'
 }
 
 .options li i {
@@ -339,7 +339,7 @@ footer nav a, footer nav span {
 
 input {
     background: none;
-    font-family: 'Material Icons';
+    font-family: 'Material Icons;'
     padding: 0px 10px;
     height: 48px;
     border: 1px solid var(--border-color);
@@ -377,7 +377,7 @@ input {
     width: 40px;
     height: 40px;
     margin: 0px 5px;
-    font-family: 'Material Icons';
+    font-family: 'Material Icons;'
     font-weight: normal;
     font-style: normal;
     font-size: 23px;
