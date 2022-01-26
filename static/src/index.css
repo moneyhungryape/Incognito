@@ -5,6 +5,11 @@
     src: url('./ProgressPersonalUse-EaJdz.ttf') format('truetype'), url('./PROGRESSPERSONALUSE-EAJDZ.woff') format('woff');
 }
 
+@font-face {
+    font-family: 'Material Icons';
+    src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+}
+
 body {
     --header-background: #000000;
     --header-shadow: rgba(0, 0, 0, 0.1) 0px 5px 10px 0px;
