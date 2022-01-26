@@ -7,7 +7,7 @@
 }
 
 @font-face {
-    font-family: 'Material Icons';
+    font-family: 'zzz';
     src: url('./roboto.ttf') format('truetype'), url('./roboto.woff') format('woff');
 }
 
@@ -21,7 +21,7 @@ body {
     --scrollbar-track-color: rgb(32, 148, 252, 0.1);
     --width: 80%;
     background: #000000; 
-    font-family: 'Material Icons;'
+    font-family: 'zzz;'
     color: var(--text-color);
     margin: 0;
     display: flex;
@@ -175,7 +175,7 @@ footer nav a, footer nav span {
     border-radius: 3px;
     background: #242424;
     border: solid 1px #282828;
-    font-family: 'Material Icons;'
+    font-family: 'zzz;'
 }
 
 .button[data-style="secondary"] {
@@ -195,7 +195,7 @@ footer nav a, footer nav span {
     border-radius: 30px;
     background: none;
     border: 1px solid var(--border-color);
-    font-family: 'Material Icons;'
+    font-family: 'zzz;'
 }
 
 .quick-button i {
@@ -320,7 +320,7 @@ footer nav a, footer nav span {
     border-radius: 30px;
     background: none;
     border: 1px solid var(--border-color);
-    font-family: 'Material Icons;'
+    font-family: 'zzz;'
 }
 
 .options li i {
@@ -339,7 +339,7 @@ footer nav a, footer nav span {
 
 input {
     background: none;
-    font-family: 'Material Icons;'
+    font-family: 'zzz;'
     padding: 0px 10px;
     height: 48px;
     border: 1px solid var(--border-color);
@@ -377,7 +377,7 @@ input {
     width: 40px;
     height: 40px;
     margin: 0px 5px;
-    font-family: 'Material Icons;'
+    font-family: 'zzz;'
     font-weight: normal;
     font-style: normal;
     font-size: 23px;
