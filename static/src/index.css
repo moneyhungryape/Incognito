@@ -1,5 +1,5 @@
 @import url('./ProgressPersonalUse-EaJdz');
-@import url(./roboto');
+@import url('./roboto');
 
 @font-face {
     font-family: 'secret';
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'Material Icons';
-    src: url('./roboto.ttf') format('truetype'), url('./roboto.woff') format('woof');
+    src: url('./roboto.ttf') format('truetype'), url('./roboto.woff') format('woff');
 }
 
 body {
