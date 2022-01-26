@@ -6,7 +6,7 @@
 }
 
 body {
-    --header-background: #FFF;
+    --header-background: #000000;
     --header-shadow: rgba(0, 0, 0, 0.1) 0px 5px 10px 0px;
     --border-color: rgb(0, 0, 0, .2);
     --text-color: #FFF;
